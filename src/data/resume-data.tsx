@@ -81,7 +81,7 @@ export const RESUME_DATA = {
       start: "2021",
       end: "Current",
       description:
-        "Østlyng & Bjerke specializes in consulting services for leadership and employee development, process management, and organizational development. I have led the development and sales of digital courses and the redevelopment of the company's website. Additionally, developed and executed programs that incorporated qualitative and quantitative insights, focused on process-based development, fostered innovation, and facilitated organizational change",
+        "Østlyng & Bjerke spesialiserer seg på ledelse- og medarbeiderutvikling, prosessledelse og organisasjonsutvikling. Jeg har gjennomført flere utviklingsprogram med statlige og offentlige organisasjoner. I tillegg har jeg ledet utviklingen og salget av digitale kurs, og designet selskapets nettside. Min ekspertise er i å utføre kvalitative og kvantitative innsiktsanalyser som bakrunn for prosessbasert utvikling.",
     },
     {
       company: "VRID",
