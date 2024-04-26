@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Nesodden, Norway",
   locationLink: "https://www.google.com/maps/place/Oslo",
   about:
-    "PhD at NTNU and Work and Organizational consultant at Østlyng & Bjerke.",
+    "PhD stipendiat og konsulent for Østlyng & Bjerke.",
   summary:
-    "My career, educations and general interests have equipped me with comprehensive skills spanning, technology, psychology, research and organizational development. My main passion lies at the intersection of psychology and technology, especially in the application of AI and technologies to solve complex challenges for real world applications. My expertise shines in environments where agility and fast-pace are important. As a leader, I emphasizes transparency, sincerity, cooperation, and continues problem-solving.",
+    "Min karriere og utdanning har gitt meg med omfattende ferdigheter innen teknologi, psykologi, forskning og organisasjonsutvikling. Mine interesser ligger i skjæringspunktet mellom psykologi og teknologi, spesielt i anvendelsen av AI og teknologi få løse praktiske problemstillinger i organisasjoner. Jeg finner meg til rette i arbeidsmiljø hvor smidighet og høyt tempo er viktig. Som leder vektlegger jeg åpenhet, oppriktighet, samarbeid og kontinuerlig utvikling.",
   avatarUrl: "https://media.licdn.com/dms/image/D4D03AQGnEDQokH4eHA/profile-displayphoto-shrink_800_800/0/1712494802583?e=1718236800&v=beta&t=M_i0NY7SSC5XxuklfgHFK0gn0O5Pmnam3CPVM-qRtsc",
   personalWebsiteUrl: "https://sebastianthorp.com",
   contact: {
@@ -48,29 +48,29 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Norwegian University of Science and Technology (NTNU)",
-      degree: "Bachelor's Degree in Psychology",
+      school: "Norges teknisk-naturvitenskapelige universitet (NTNU)",
+      degree: "Bachelor i psykologiy",
       start: "2016",
       end: "2019",
     },
       {
-      school: "Norwegian University of Science and Technology (NTNU)",
-      degree: "Master's Degree in Work and Organizational Psychology",
+      school: "Norges teknisk-naturvitenskapelige universitet (NTNU)",
+      degree: "Master i arbeids- og organisasjonspsykologi",
       start: "2019",
       end: "2021",
     },
   ],
   work: [
     {
-      company: "Norwegian University of Science and Technology (NTNU)",
+      company: "Norges teknisk-naturvitenskapelige universitet (NTNU)",
       link: "https://ntnu.no",
       badges: [""],
-      title: "Ph.D stipend",
+      title: "Ph.D stipendiat",
       logo: JojoMobileLogo,
       start: "2022",
       end: "Current",
       description:
-        "Researching psychology in the context of Artificial Intelligence and Spatial Computing. Supervisor and lecturer for Bachelor's and Master's students.",
+        "Forsker på kunstig intelligens, spatial computing og psykologi. Veileder og foreleser for bachelor- og masterstudenter.",
     },
     {
       company: "Østlyng & Bjerke",
