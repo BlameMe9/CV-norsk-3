@@ -112,7 +112,7 @@ export const RESUME_DATA = {
       logo: NSNLogo,
       start: "2013",
       end: "2015",
-      description: "I managed the conscripts’, overseeing payroll, food provisioning in camps and fields, and transportation logistics. Additionally, I played a key role in the staff's planning and coordination of field exercises. My leadership responsibilities extended to guiding conscripts in both camp and field settings, where I led physical training, maintained equipment and vehicles, and lead our team during field operations.",
+      description: "Jeg hadde ansvar for forvaltning av eskadronens vernepliktige, inkludert lønnsutbetalinger, matforsyning i leirer og felt, og transportlogistikk. Jeg tok også del i planlegging og koordinering av feltøvelser. Som lagfører for stabe ledet jeg de vernepliktige både i leir og i felt, inkludert fysisk trening, vedlikehold av utstyr og kjøretøy, og ledet i feltoperasjoner.",
     },
   ],
   skills: [
