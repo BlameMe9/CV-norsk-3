@@ -92,7 +92,7 @@ export const RESUME_DATA = {
       start: "2020",
       end: "2022",
       description:
-        "VRID tilbyr tjenester innen organisasjonsutvikling, kvantitativ innsiktsanalyse og digital transformasjon. VRID har designet, implementert og analysert en medarbeiderundersøkelse for 1 500 ansatte i Orkland kommune, i tillegg til å gjennomføre og evaluere en omfattende medarbeiderundersøkelse for de norske domstolene. VRID har også utviklet en produktstrategi for et Virtual Reality-prosjekt for å tilby opplæring i intervjuferdigheter.",
+        "VRID tilbyr tjenester innen organisasjonsutvikling, kvantitativ innsiktsanalyse og digital transformasjon. VRID har designet, implementert og analysert en medarbeiderundersøkelse for 1 500 ansatte i en norsk kommune, i tillegg til å gjennomføre og evaluere en omfattende innsiktsanalyse for de norske domstolene. VRID har også utviklet en produktstrategi for et Virtual Reality-prosjekt for å tilby opplæring i intervjuferdigheter.",
     },
     {
       company: "Norwegian University of Science and Technology (NTNU)",
